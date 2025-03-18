@@ -1,0 +1,9 @@
+fix a different battery to Arduino board
+using a joystick for transmitter
+wiring system
+connecting multiple I2C pins for radio, baro, gyro
+Fix gyroscope 
+fix barometer
+
+
+
